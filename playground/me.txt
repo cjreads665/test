@@ -1,5 +1,0 @@
-{{#user}
-Name: Shahid Alam
-Skills: React.js, HTML, CSS, Node.js, Typescript, Javascript,Express, Cypress, Redux, AWS
-Email: shahid.alam57@gmail.com
-{{/user}}
